@@ -1,2 +1,2 @@
 # PHP-MySql-Class-Abstraction
-Abstraction of a Php /MySql class for further use.
+This is a PHP Script that abstracts the Create, Read, Update and Delete operations on a MySQL database.
